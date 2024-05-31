@@ -1,35 +1,35 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Gabriel v brizola",
+  "photo": "https://avatars.githubusercontent.com/u/135051166?s=400&u=08b0bb873c3d533e8a99bfeeacf829dc2899ab55&v=4",
+  "job": "Professor tech - Iberica Cursos",
+  "location": "Cunha Porã - SC",
+  "phone": "(49) 9 8899-6513",
+  "email": "gabrielvbrizola@gmail.com",
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
       },
       {
         "name": "Angular",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
       },
       {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "name": "VSCODE",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/vscode.png"
       },
       {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "GITHUB",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
       }
     ],
     "softSkills": [
@@ -42,37 +42,37 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
+    "Inglês (avançado)",
     "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Francês (iniciante)"
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Pokédex com JavaScript",
+      "url": "https://github.com/GabrielVDev/js-developer-pokedex",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Classes de Um Jogo",
+      "url": "https://github.com/GabrielVDev/Classes-de-um-jogo",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Tech Teacher / Iberica Educacional",
+      "period": "2024 - até o momento",
+      "description": "Tech Teacher dedicado e experiente, com amplo conhecimento em tecnologia e suas aplicações educacionais. Possuo habilidades pedagógicas que me permitem ensinar de maneira clara e eficaz, adaptando minhas técnicas de ensino às necessidades individuais de cada aluno."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Porteiro - Portal Serviços Empresariais",
+      "period": "2022 - 2023",
+      "description": "Reconhecido por minha atenção aos detalhes, habilidades interpessoais e capacidade de resolver problemas de forma eficiente e discreta."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "English Teacher / Governo Estadual de Santa Catarina",
+      "period": "2019 - 2020",
+      "description": "Destaco-me pela paciência, capacidade de motivar e promover a prática constante, cultivando um ambiente de aprendizagem positivo. Além disso, mantenho-me sempre informado sobre as mais recentes metodologias de ensino de línguas."
     }
   ]
 }
